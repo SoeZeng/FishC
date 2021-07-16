@@ -1,0 +1,5 @@
+E:\python\P29_1\poet.txt
+E:\python\P29_1\poet1.txt
+E:\python\P29_1\poet2.txt
+E:\python\path.txt
+E:\python\poet.txt
